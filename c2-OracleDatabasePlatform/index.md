@@ -37,93 +37,49 @@ In this module, we will take a look of what large datasets may consist of, explo
 ## Part 2: Comprehensive Introduction To SQL Developer
 # Learning Objectives
 
-    Describe what the SQL Developer is and its purpose
-    List some features of SQL Developer and describe their benefits
-    Describe the purpose and function of Packages
-    Define Triggers and explain what they do
-    Understand some of the possible changes to the production environment
- SQL Developer
+      -  Describe what the SQL Developer is and its purpose
+      -  List some features of SQL Developer and describe their benefits
+      -  Describe the purpose and function of Packages
+      -  Define Triggers and explain what they do
+      -  Understand some of the possible changes to the production environment
 
-GUI Tools: SQL Developer
-Video•. Duration: 3 minutes3 min
 
-SQL Developer: Oracle Connections
-Video•. Duration: 3 minutes3 min
+### Module 3 - SQL Developer
 
-SQL Developer: Indexes, Packages, and Procedures
-Video•. Duration: 3 minutes3 min
+- GUI Tools: SQL Developer
+- SQL Developer: Oracle Connections
+- SQL Developer: Indexes, Packages, and Procedures
+- SQL Developer: Functions and Operators
+- Oracle Packages
+- SQL Developer: Queues and Queues Tables
 
-SQL Developer: Functions and Operators
-Video•. Duration: 3 minutes3 min
 
-Oracle Packages
-Reading•. Duration: 10 minutes10 min
+### Module 3-2 - 
 
-    SQL Developer: Queues and Queues Tables
-    Video•. Duration: 3 minutes3 min
+- Triggers and Types
+- Creating Triggers
+- SQL Developer: Sequences, Materialized Views, and Materialized View Logs
+- - Changes to the Production Environment
+- SQL Developer: Synonyms, Public Synonyms, Database Links, and Public Database Links
+- Synonyms
 
-SQL Developer: Triggers and Types
-Video•. Duration: 3 minutes3 min
 
-Creating Triggers
-Reading•. Duration: 10 minutes10 min
+### Module 3-3 - 
 
-SQL Developer: Sequences, Materialized Views, and Materialized View Logs
-Video•. Duration: 4 minutes4 min
+- SQL Developer: Directories, Editions, Java, & XML
+- Developing in Java within Oracle
+- SQL Developer: OLAP, Analytic Views, & Scheduler
+- Data Warehousing in Oracle
 
-Changes to the Production Environment
-Discussion Prompt•. Duration: 10 minutes10 min
 
-SQL Developer: Synonyms, Public Synonyms, Database Links, and Public Database Links
-Video•. Duration: 2 minutes2 min
+### Module 3-4 - 
 
-Synonyms
-Reading•. Duration: 10 minutes10 min
+- SQL Developer: RDF Semantic Graph
+- RDF Semantic Graph
+- SQL Developer: Table Details - Column Info.
+- SQL Developer Demo: Table Details
+- Demo: SQL Developer - Create Table
+- Oracle SQL DDL
+- Demo: SQL Developer - Using SQL DDL Syntax
+- Module 3 Review
 
-    Synonyms
-    Discussion Prompt•. Duration: 10 minutes10 min
-
-    Practice Review
-    Practice Quiz•10 questions
-
-SQL Developer: Directories, Editions, Java, & XML
-Video•. Duration: 3 minutes3 min
-
-Developing in Java within Oracle
-Reading•. Duration: 10 minutes10 min
-
-SQL Developer: OLAP, Analytic Views, & Scheduler
-Video•. Duration: 3 minutes3 min
-
-Data Warehousing in Oracle
-Reading•. Duration: 10 minutes10 min
-
-SQL Developer: RDF Semantic Graph
-Video•. Duration: 3 minutes3 min
-
-RDF Semantic Graph
-Reading•. Duration: 10 minutes10 min
-
-    RDF - Something to think about
-    Discussion Prompt•. Duration: 10 minutes10 min
-
-SQL Developer: Table Details - Column Info.
-Video•. Duration: 2 minutes2 min
-
-SQL Developer Demo: Table Details
-Video•. Duration: 3 minutes3 min
-
-Demo: SQL Developer - Create Table
-Video•. Duration: 5 minutes5 min
-
-Oracle SQL DDL
-Reading•. Duration: 10 minutes10 min
-
-    Demo: SQL Developer - Using SQL DDL Syntax
-    Video•. Duration: 2 minutes2 min
-
-Module 3 Review
-Due, Dec 25, 11:59 PM CET
-Quiz•10 questions
-
-•Grade: --
