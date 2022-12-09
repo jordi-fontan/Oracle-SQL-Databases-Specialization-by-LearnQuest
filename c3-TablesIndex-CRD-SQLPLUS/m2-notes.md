@@ -31,7 +31,8 @@
 ***
 ![imagen](https://user-images.githubusercontent.com/63612112/206751064-a19d71c4-ca6a-4a5f-993c-b04f8fd1508d.png)
 
-
+***
+![imagen](https://user-images.githubusercontent.com/63612112/206753520-78a5ff3f-803a-4df9-b454-0165a6ab2965.png)
 
 
 
@@ -46,10 +47,15 @@
 ***
 ![imagen](https://user-images.githubusercontent.com/63612112/206752058-58bc0c1b-bd19-45f7-bb27-2f50a0810d97.png)
 
-***
 
 ![imagen](https://user-images.githubusercontent.com/63612112/206752204-4829fda9-92a7-4367-98f8-23188d860a4b.png)
 
+***
+### 2.3 Deleting rows
+***
+![imagen](https://user-images.githubusercontent.com/63612112/206753775-1610b16f-d1da-4de8-b8d8-16b14f869c4e.png)
+
+![imagen](https://user-images.githubusercontent.com/63612112/206753982-16d51b30-47b7-4960-8036-e3cf530d249d.png)
 
 
 
